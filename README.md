@@ -1,4 +1,4 @@
-# Script to install-Python3.9.7-Amazon-Linux-2
+# Script to install-Python3.9.7-Amazon-Linux-2 and Pandas Layer in AWS Lambda
 
 Script to install Python 3.9.7 on Amazon Linux 2 AMI (HVM), SSD Volume Type 
 ami-04ad2567c9e3d7893 (64-bit x86) / ami-0d1a4d53e40abecc4 (64-bit Arm)
@@ -17,7 +17,7 @@ python3.9 --version
 
 ## Python packages in AWS Lambda 
 
-If you are interested to create a layer lammbda , for example pandas
+If you are interested to create a layer lambda , for example pandas
 Step 1: Create Python Virtual Environment
 
 ```
