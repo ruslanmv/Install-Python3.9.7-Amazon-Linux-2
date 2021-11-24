@@ -15,9 +15,9 @@ sudo make altinstall
 python3.9 --version
 ```
 
-Python packages in AWS Lambda 
+## Python packages in AWS Lambda 
 
-If you are interested to create a layer lammbda , for exmaple pandas
+If you are interested to create a layer lammbda , for example pandas
 Step 1: Create Python Virtual Environment
 
 ```
